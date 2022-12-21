@@ -32,6 +32,10 @@ $ npm run dev
 # production mode
 $ npm run dev:prod
 
+##Deploy
+
+https://minha-pagina.onrender.com
+
 
 ## Stay in touch
 
